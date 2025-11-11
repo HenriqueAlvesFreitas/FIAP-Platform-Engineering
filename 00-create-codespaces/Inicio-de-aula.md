@@ -7,7 +7,7 @@ Durante o setup você criou uma conta AWS Academy e um Codespaces. Caso não ten
 
 Execute os passos abaixo no inicio de cada aula:
 
-1. Acesse o seu github no repositório que fez fork do repositório da disciplina **FIAP-Microservices-Serverless**.
+1. Acesse o seu github no repositório que fez fork do repositório da disciplina **FIAP-Platform-Engineering**.
 2. Clique em `Sync Fork` no meio da tela para sincronizar o repositório com o repositório original. Caso tenha algo para sincronizar, clique em `Update branch` para sincronizar o repositório como na imagem abaixo:
    
    
@@ -22,7 +22,7 @@ Execute os passos abaixo no inicio de cada aula:
 
 
 3. Acesse o seu codespaces, para isso acesse o link [Github Codespaces](https://github.com/codespaces)
-4. Clique no nome do Codespaces que você criou para as aulas, ele esta derivado do repositório FIAP-Microservices-Serverless. 
+4. Clique no nome do Codespaces que você criou para as aulas, ele esta derivado do repositório FIAP-Platform-Engineering. 
 
     ![](img/codespacess11.png)
 
