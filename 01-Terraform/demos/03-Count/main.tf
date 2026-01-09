@@ -64,7 +64,7 @@ resource "aws_instance" "web" {
   instance_type = "t3.micro"
   ami           = "${lookup(var.aws_amis, var.aws_region)}"
 
-  count = 2
+  count = 1
 
   subnet_id              = "${random_shuffle.random_subnet.result[0]}"
   vpc_security_group_ids = ["${aws_security_group.allow-ssh.id}"]
